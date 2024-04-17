@@ -1,4 +1,4 @@
-# untitled2
+# Counter
 
 A new Flutter project
 
