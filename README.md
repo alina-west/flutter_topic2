@@ -4,11 +4,11 @@ A new Flutter project
 
 ##This application serves as a simple example of using Flutter to create an interactive user interface with state and event callbacks.
 
-User Interface: The application features a simple counter interface. It displays a title "My counter" at the top of the screen, followed by a counter value displayed in the center. Below the counter value are two buttons: "+" and "-", which allow the user to increment and decrement the counter value, respectively.
+1)User Interface: The application features a simple counter interface. It displays a title "My counter" at the top of the screen, followed by a counter value displayed in the center. Below the counter value are two buttons: "+" and "-", which allow the user to increment and decrement the counter value, respectively.
 
-Counter Functionality: Pressing the "+" button increments the counter value by 1, while pressing the "-" button decrements it by 1. Changes to the counter value are reflected immediately on the screen.
+2)Counter Functionality: Pressing the "+" button increments the counter value by 1, while pressing the "-" button decrements it by 1. Changes to the counter value are reflected immediately on the screen.
 
-Implementation: The application consists of two main components: the main widget (MyCounter) and the counter widget (_CounterWidget). The main widget sets up the application with a theme, app bar, and content. The counter widget displays the current counter value and buttons to modify it.
+3)Implementation: The application consists of two main components: the main widget (MyCounter) and the counter widget (_CounterWidget). The main widget sets up the application with a theme, app bar, and content. The counter widget displays the current counter value and buttons to modify it.
 
 
 
